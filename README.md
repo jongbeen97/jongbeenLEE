@@ -56,6 +56,7 @@ Java / Spring Boot / React 기반으로 웹 풀스택 포트폴리오를 만들�
 
 ### 🔹 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://raw.githubusercontent.com/jongbeenlee/jongbeenlee/main/java.png" height="32"/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
