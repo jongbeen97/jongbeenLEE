@@ -99,19 +99,6 @@ Java / Spring Boot / React 기반으로 웹 풀스택 포트폴리오를 만들�
 
 ---
 
-## 📊 GitHub Stats
-> 아래 `YOUR_GITHUB_ID`는 반드시 본인 아이디로 바꾸기 (공백 X)
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&hide_title=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=transparent" height="160" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_ID&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
-</div>
 
     
 
