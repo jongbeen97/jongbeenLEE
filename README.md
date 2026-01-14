@@ -1,5 +1,7 @@
 ## Developer JONGBEEN LEE 👋
-
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 <!--
 **jongbeenLEE/jongbeenLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 도약 
+### 자기 소개 
+안녕하세요 . 이종빈입니다. 
 
 
-###Skills
+### 기술 스택 
+
